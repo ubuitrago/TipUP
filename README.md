@@ -1,18 +1,18 @@
 # TipUP
 Simple tipping calculator for Codepath
-# Pre-work - *Name of App Here*
+# Pre-work - TipIP
 
-**Name of your app** is a tip calculator application for iOS.
+**TipUP** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Uriel Buitrago**
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -34,8 +34,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+I am new to a lot of these tools so I spent a good amount of time trouble-shooting, but I really enjoyed the project and found it easy to focus on making a fun app. 
 
 ## License
 
